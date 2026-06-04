@@ -131,7 +131,7 @@ public class RightRotationLinkedList {
 
 ## Output:
 
-<img width="571" height="232" alt="image" src="https://github.com/user-attachments/assets/54f22075-7d8a-4b56-b651-2fce78d7dc2f" />
+<img width="882" height="256" alt="image" src="https://github.com/user-attachments/assets/6cc3aaf3-9af8-4331-a8fb-dc3d80997ee9" />
 
 
 ## Result:
@@ -222,7 +222,7 @@ public class RemoveValueLinkedList {
 
 ## Output:
 
-<img width="943" height="209" alt="image" src="https://github.com/user-attachments/assets/a053d010-8c86-4f35-80da-051e624e5273" />
+<img width="813" height="298" alt="image" src="https://github.com/user-attachments/assets/e1f21b34-4ac3-4b3b-a68b-fdde21bc5a86" />
 
 
 ## Result:
@@ -299,7 +299,7 @@ public class DetectCycleLinkedList {
 
 ## Output:
 
-<img width="943" height="60" alt="image" src="https://github.com/user-attachments/assets/bbb0c7b3-63ba-46cc-a3de-e676eb7574a3" />
+<img width="785" height="229" alt="image" src="https://github.com/user-attachments/assets/2c2c1c13-d8c9-4f90-a8fe-be2a87a79f0d" />
 
 
 ## Result:
@@ -366,7 +366,7 @@ public class LongestNestedSet {
 
 ## Output:
 
-<img width="927" height="151" alt="image" src="https://github.com/user-attachments/assets/4f0d3c2e-0eff-4819-afb5-200140227b66" />
+<img width="1256" height="300" alt="image" src="https://github.com/user-attachments/assets/e86b8305-afda-4513-a3c4-6052ff82cd2d" />
 
 
 ## Result:
@@ -475,7 +475,7 @@ public class FlattenNestedList {
 
 ## Output:
 
-<img width="949" height="67" alt="image" src="https://github.com/user-attachments/assets/9e59bbbe-33c2-4b8e-ae55-bd9a5d115867" />
+<img width="772" height="161" alt="image" src="https://github.com/user-attachments/assets/a8f83a3f-9930-4ba5-9f54-54d30379bbe8" />
 
 
 ## Result:
