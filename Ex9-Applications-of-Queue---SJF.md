@@ -57,7 +57,7 @@ public class LongestNestedSet {
 
 ## Output:
 
-<img width="927" height="151" alt="image" src="https://github.com/user-attachments/assets/4f0d3c2e-0eff-4819-afb5-200140227b66" />
+<img width="1256" height="300" alt="image" src="https://github.com/user-attachments/assets/e86b8305-afda-4513-a3c4-6052ff82cd2d" />
 
 
 ## Result:
