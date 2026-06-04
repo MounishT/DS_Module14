@@ -131,7 +131,7 @@ public class RightRotationLinkedList {
 
 ## Output:
 
-<img width="571" height="232" alt="image" src="https://github.com/user-attachments/assets/54f22075-7d8a-4b56-b651-2fce78d7dc2f" />
+<img width="882" height="256" alt="image" src="https://github.com/user-attachments/assets/6cc3aaf3-9af8-4331-a8fb-dc3d80997ee9" />
 
 
 ## Result:
