@@ -68,7 +68,7 @@ public class DetectCycleLinkedList {
 
 ## Output:
 
-<img width="943" height="60" alt="image" src="https://github.com/user-attachments/assets/bbb0c7b3-63ba-46cc-a3de-e676eb7574a3" />
+<img width="785" height="229" alt="image" src="https://github.com/user-attachments/assets/2c2c1c13-d8c9-4f90-a8fe-be2a87a79f0d" />
 
 
 ## Result:
