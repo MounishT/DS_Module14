@@ -82,7 +82,7 @@ public class RemoveValueLinkedList {
 
 ## Output:
 
-<img width="943" height="209" alt="image" src="https://github.com/user-attachments/assets/a053d010-8c86-4f35-80da-051e624e5273" />
+<img width="813" height="298" alt="image" src="https://github.com/user-attachments/assets/e1f21b34-4ac3-4b3b-a68b-fdde21bc5a86" />
 
 
 ## Result:
