@@ -100,7 +100,7 @@ public class FlattenNestedList {
 
 ## Output:
 
-<img width="949" height="67" alt="image" src="https://github.com/user-attachments/assets/9e59bbbe-33c2-4b8e-ae55-bd9a5d115867" />
+<img width="772" height="161" alt="image" src="https://github.com/user-attachments/assets/a8f83a3f-9930-4ba5-9f54-54d30379bbe8" />
 
 
 ## Result:
